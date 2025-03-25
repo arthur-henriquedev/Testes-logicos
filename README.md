@@ -1,2 +1,2 @@
-# Testes-logicos
-Códigos curtos nas linguagens Python e Portugol.
+# Teste logicos
+Códigos curtos feitos nas linguagens Python e Portugol para um trabalho da faculdade.
